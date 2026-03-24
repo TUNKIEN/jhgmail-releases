@@ -1,4 +1,5 @@
-  "version": "0.0.1",
-  "download_url": "https://github.com/TUNKIEN/jhgmail-releases/releases/download/v0.0.1/JHG.Mail.exe",
-  "notes": "Thêm Check Yamato"
+{
+  "version": "0.0.2",
+  "download_url": "https://github.com/TUNKIEN/jhgmail-releases/releases/download/v0.0.2/JHG.Mail.exe",
+  "notes": "Thêm đăng nhập Microsoft Outlook"
 }
